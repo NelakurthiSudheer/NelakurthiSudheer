@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @NelakurthiSudheer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm SuidheerKumar</h1>
+<h3 align="center">DataScientist📊, WebDeveloper💻.</h3>
 
-<!---
-NelakurthiSudheer/NelakurthiSudheer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+- 🌱 I’m currently learning **Django, Tableau**
+
+- 💬 Ask me about **Django, CSS, HTML, PYTHON**
+
+- 📫 Reach me at **nelakurthisudheer@gmail.com**
+
+
+
+<p align="center">
+<a href="https://twitter.com/Nelakurthisudh2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="(twitter)Nelakurthisudh2" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/nelakurthisudheer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nelakurthisudheer" height="30" width="30" /></a>
+</p>
