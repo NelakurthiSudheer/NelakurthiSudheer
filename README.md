@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, SudheerKumar</h1>
+<h1 align="center">Hi 👋, I'm SudheerKumar</h1>
 <h3 align="center">DataScientist📊, WebDeveloper💻.</h3>
 
 - 🌱 I’m currently learning **Tableau, Django**
