@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Tableau, Django**
 
-- 💬 Ask me about **Python, HTML, CSS , PHP**
+- 💬 Ask me about **Python, HTML, CSS , ML**
 
 - 📫 Reach me at **nelakurthisudheer@gmail.com**
 
