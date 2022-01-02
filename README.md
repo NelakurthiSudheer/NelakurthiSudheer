@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, HTML, CSS , ML**
 
-- 📫 Reach me at **nelakurthisudheer@gmail.com**
+- 📫 Reach me at **https://nelakurthisudheer.github.io/**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NelakurthiSudheer&show_icons=true&count_private=true" alt="shahraizali" /></p>
