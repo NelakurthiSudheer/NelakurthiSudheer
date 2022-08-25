@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SudheerKumar</h1>
 <h3 align="center">DataScientist📊, WebDeveloper💻.</h3>
 
-- 🌱 I’m currently learning **Tableau, Django**
+- 🌱 I’m currently learning **AWS, CLOUD COMPUTING**
 
-- 💬 Ask me about **Python, HTML, CSS , ML**
+- 💬 Ask me about **Python, HTML, CSS , ML, DJANGO**
 
 - 📫 Reach or Connect me at **https://nelakurthisudheer.github.io/**
 
